@@ -3,7 +3,7 @@ import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 
-experimental.assets=true;
+
 /*
   We are doing some URL mumbo jumbo here to tell Astro what the URL of your website will be.
   In local development, your SEO meta tags will have localhost URL.
@@ -28,7 +28,17 @@ if (isBuild) {
   BASE_URL = LIVE_URL;
 }
 
+
+
+
 export default defineConfig({
+  experimental: {
+   assets: true
+  },
+  image: {
+    service: "astro/assets/services/sharp",
+    format: 'avif',
+  },
   server: { port: SERVER_PORT },
   site: BASE_URL,
   integrations: [
