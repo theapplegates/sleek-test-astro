@@ -93,3 +93,5 @@ Syntax highlighting is done using [Prism.js](https://github.com/PrismJS/prism). 
 ## Images
 
 ![Blogster](/images/blogster.png)
+
+![iPhone 14 sample pic, night shot](/images/iPhone_Pic.jpeg)
