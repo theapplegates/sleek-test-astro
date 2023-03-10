@@ -95,8 +95,5 @@ Syntax highlighting is done using [Prism.js](https://github.com/PrismJS/prism). 
 
 ![Blogster](/images/blogster.png)
 
-![iPhone 14 sample pic, night shot](/images/iPhone_Pic.jpeg)
-
-<!-- Image stored at public/images/stars.png -->
-![A starry night sky.](/images/iPhone_Pic.jpeg)
+![iPhome-Night-Shot](https://applegate-paul.mo.cloudinary.net/zoom/iPhone_Pic.jpeg)
 
