@@ -4,7 +4,7 @@ title: "Basic markdown style guide"
 description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
 date: 2022-11-02
 ---
-import { Image } from 'astro:assets';
+import { Image } from 'astro:assets'
 
 Markdown is powered by [Markdoc](https://markdoc.dev/). This is an example post to demonstrate all the basic markdown syntax. You can author content using the familiar markdown syntax you already know.
 
@@ -92,6 +92,8 @@ Syntax highlighting is done using [Prism.js](https://github.com/PrismJS/prism). 
 ```
 
 ## Images
+
+![A real picture of an ant](/images/Real_Ant.jpg)
 
 ![Blogster](/images/blogster.png)
 
