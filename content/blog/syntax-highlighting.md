@@ -47,10 +47,3 @@ An example `css` code block.
 ```
 
 ...and many more. [Explore all the languages supported by Prism.js](https://prismjs.com/#supported-languages).
-
-
-![A starry night sky.](../../assets/iPhone_Pic.jpeg)
-
-<img src="../../assets/iPhone_Pic.hash.jpeg" alt="A starry night sky."
-
-
